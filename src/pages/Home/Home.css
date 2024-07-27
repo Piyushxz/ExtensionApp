@@ -1,0 +1,23 @@
+.main-heading{
+    font-size: 3rem;
+    line-height: 4rem;
+}
+
+.home-container{
+    color: var(--text-color-primary);
+    padding-top:4rem;
+}
+
+.input{
+    background-color: transparent;
+    border: none;
+    border-bottom:3px solid var(--text-color-primary) ;
+    font-size: 3.5rem;
+    color : var(--text-color-primary);
+    width: 40vw;
+}
+.input:focus{
+    outline: none;
+    text-align: center;
+}
+
